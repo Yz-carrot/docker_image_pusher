@@ -7,4 +7,4 @@ nginx
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-docker.rainbond.cc/zqh111/recoder:training
+docker.rainbond.cc/r/zqh111/recoder:training
