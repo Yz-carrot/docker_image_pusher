@@ -6,4 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 #nginx
-docker.rainbond.cc/zqh111/recoder:interface
+node:14.18-stretch
