@@ -6,4 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 #nginx
-node:14.18-stretch
+codeclimate/codeclimate:0.96.0
